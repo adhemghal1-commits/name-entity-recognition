@@ -1,0 +1,10 @@
+torch
+transformers
+datasets
+accelerate
+seqeval
+gensim
+gradio
+numpy
+pandas
+matplotlib
